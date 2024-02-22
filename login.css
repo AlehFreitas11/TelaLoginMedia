@@ -1,0 +1,46 @@
+@media only screen and (min-width: 400px) and (max-width: 700px) {
+
+    #body{
+        justify-content:center;
+        align-items:center;
+        display:center;
+        background:#babbf3;
+        width:100vw;
+        height:100vh;
+        }
+        .body2{
+        background-color: white;
+        justify-content: center;
+        align-items: center;
+        display: center;
+        width: 80vw;
+        height:85vh;
+        margin-left: 10vw;
+         }
+    .TopoLogin{;
+        justify-content:center;
+        display:center;
+        text-align: center;
+        color:black;
+        height:15vh;
+        }
+        .Login2{
+            margin-left: 2vw;
+            height: 10vh;
+            width: 60vw;
+            background-color: red;
+        }
+        .senha input{
+            
+        }
+        
+  
+
+
+    
+
+
+
+}
+    
+}
